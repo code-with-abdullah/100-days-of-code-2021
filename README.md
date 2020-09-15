@@ -7,7 +7,7 @@
 
  ![Calculator-app-image](/images/001-CalculatorApp.png)
  
- Source code for this project can be found [here](/Code/Day1-CalculatorApp/).
+ Source code for this project can be found [here](code/Day001-CalculatorApp).
 
 
 ## Follow me on Social Media
