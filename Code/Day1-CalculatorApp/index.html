@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title> Calculator App | 100 days of code challenge | Day 001 </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container text-center">
+        <!-- Sidebar on left (for devices larger than 992px only) -->
+        <div id="calculator">
+            <div id="result-bar"></div>
+            <div id="equation-bar"></div>
+            <div class="button-row">
+                <div class="button symbol-button">C</div><div class="button symbol-button">+/-</div><div class="button symbol-button">%</div><div class="button symbol-button colored-button" id="divide-button">÷</div>
+            </div>
+            <div class="button-row">
+                <div class="button numeric-button">7</div><div class="button numeric-button">8</div><div class="button numeric-button">9</div><div class="button symbol-button colored-button" id="mutliply-button">x</div>
+            </div>
+            <div class="button-row">
+                <div class="button numeric-button">4</div><div class="button numeric-button">5</div><div class="button numeric-button">6</div><div class="button symbol-button colored-button" id="minus-button">-</div>
+            </div>
+            <div class="button-row">
+                <div class="button numeric-button">1</div><div class="button numeric-button">2</div><div class="button numeric-button">3</div><div class="button symbol-button colored-button" id="plus-button">+</div>
+            </div>
+            <div class="button-row">
+                <div class="button numeric-button" id="zero-number">0</div><div class="button symbol-button">.</div><div class="button colored-button" id="equal-button">=</div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
