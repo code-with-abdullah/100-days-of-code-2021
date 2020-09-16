@@ -1,0 +1,166 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+/* colors used throughout the web-page */
+.color-pallete {
+    color: #9A77CF;
+    color: #744C8B;
+    color: #262254;
+    color: #A13670;
+    color: #EC4176;
+    color: #FFA45E;
+    color: #E997E5;
+}
+
+/* Importing barlow font from google */
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
+
+body {
+    background-color: #744C8B;
+    font-family: 'Barlow';
+}
+
+#container-column {
+    margin:25px auto;
+    width: 600px;
+    background-color: rgba(0,0,0, 0.05);
+    padding:25px;
+}
+
+#main-heading{
+    font-size:60px;
+    display: block;
+    width:100%;
+    text-align: center;
+    height:70px;
+    color: #E997E5;
+}
+
+#add-new-to-do {
+    width:100%;
+    align-content: center;
+}
+
+#add-new-to-do > div > input {
+    float: right;
+    border: 0px;
+    background-color: transparent;
+    border-bottom: 1px solid #FFA45E;
+}
+
+#add-new-to-do > div > input:focus {
+    outline: none;
+}
+
+label {
+    width: 25%;
+    font-size: 30px;
+    display: inline-block;
+    height: 50px;
+    vertical-align: end;
+    padding: 10px 10px;
+    margin-top: 10px;
+    color: #EC4176;
+}
+
+#new-to-do-heading, 
+#new-to-do-description {
+    margin: 10px auto;
+}
+
+#new-to-do-heading-input, 
+#new-to-do-description-input {
+    display: inline-block;
+    height: 50px;
+    width: 70%;
+    font-size: 20px;
+    color: #FFA45E;
+    text-align: center;
+}
+
+#new-to-do-button-container {
+    text-align: center;
+}
+
+#new-to-do-button {
+    width:50%;
+    border: 0px;
+    height: 50px;
+    font-size: 25px;
+    color: #FFA45E;
+    background-color: #744C8B;
+    border-radius: 50px;
+    margin-top: 10px;
+}
+
+#new-to-do-button:hover {
+    cursor: pointer;
+    letter-spacing: 3px;
+}
+
+#list {
+    margin-top: 25px;
+    height: 500px;
+    overflow-y: auto;
+}
+
+.to-do-box {
+    border: 2px solid #A13670;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.to-do-heading {
+    color: #EC4176;
+    font-size: 25px;
+    height: 50px;
+    font-weight: bolder;
+    overflow: hidden;
+}
+
+.to-do-details {
+    color: #FFA45E;
+    height: 30px;
+    font-size: 20px;
+    font-style: italic;
+    overflow: hidden;
+}
+
+.to-do-content {
+    width:80%;
+    display: inline-block;
+}
+
+.to-do-button-on-right {
+    width: 15%;
+    height: 80px;
+    float: right;
+    font-size: 50px;
+    text-align: center;
+    border-radius: 40px;
+    background-color: #A13670;
+}
+
+.to-do-box:hover {
+    cursor: pointer;
+    background-color: rgba(0,0,0, 0.2);
+}
+
+.disabled-to-do-box, 
+.disabled-to-do-box > div > p {
+    color: azure;
+}
+.disabled-to-do-box > div.to-do-button-on-right {
+    background-color: white;
+}
+
+#usage-key {
+    text-align: right;
+    color:white;
+    visibility: hidden;
+    margin-top: 10px;
+}

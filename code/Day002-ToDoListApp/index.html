@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- head start -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> To-do-list App | Day 002 | 100 days of code challenge</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<!-- head end -->
+
+<!-- body start -->
+<body>
+    <main>
+        <!-- the column in which app resides  -->
+        <div id="container-column">
+            <span id="main-heading">To do list</span>
+
+            <div id="add-new-to-do">
+                <div id="new-to-do-heading">
+                    <label for="new-to-do-heading-input">Heading</label>
+                    <input type="text" name="heading-of-new-to-do" id="new-to-do-heading-input">
+                </div>
+                <div id="new-to-do-description">
+                    <label for="new-to-do-heading-description">Description</label>
+                    <input type="text" name="description-of-new-to-do" id="new-to-do-description-input">
+                </div>
+
+                <div id="new-to-do-button-container">
+                    <button type="button" id="new-to-do-button">Add TO-DO</button>
+                </div>
+            </div>
+
+            <div id="list">
+                <div id="usage-key">
+                    <p> Single Click to toggle enable</p>
+                    <p> Double Click to remove</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- JavaScript files -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+</body>
+<!-- body end -->
+
+</html>

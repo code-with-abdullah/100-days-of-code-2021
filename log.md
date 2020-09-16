@@ -10,4 +10,15 @@
 
 This project was easy and helped me brush up on some previous skills including designing web pages using HTML and CSS and applying JavaScript functionality. Though in this project not much JavaScript was used, only jQuery.
 
-**Link to work:** [Calculator App](/Code/Day1-CalculatorApp/)
+**Link to work:** [Calculator App](code/Day1-CalculatorApp/)
+
+
+### Day 2: September, 16 - 2020 (TO-DO-List App)
+
+**Today's Progress**: I designed and implemented a TO-DO-List app.
+
+**Thoughts:** Today I underestimated the challenge of designing and implementing a small TO-DO-List app. It turned out to be harder than expected and I learnt a couple of new things. 
+
+Firstly, I learnt to add HTML dynamically into DOM. Then I learnt how to manipulate those elements on runtime. I learnt a new concept of delegates (I used it to trigger a function on dynamically introduced element, using its parent element).
+
+**Link to work:** [TO-DO-List App](code/Day002-ToDoListApp/)

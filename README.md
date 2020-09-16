@@ -3,11 +3,15 @@
  
  This was suggested to me by the lab where I am working as a Research Assistant since June 2019. Check out the lab at [Vision and Learning Research Lab](http://vision-learning.media-tics.net/).
 
-## My latest project in this challenge was (Calculator App)
+## My latest project in this challenge was (A to-do-list App)
 
- ![Calculator-app-image](/images/001-CalculatorApp.png)
+ ![to-do-list-app-image01](images/Day002/to-do-list-1.png)
+
+ ![to-do-list-app-image02](images/Day002/to-do-list-2.png)
+
+ ![to-do-list-app-image03](images/Day002/to-do-list-3.png)
  
- Source code for this project can be found [here](code/Day001-CalculatorApp).
+ Source code for this project can be found [here](code/Day002-ToDoListApp/).
 
 
 ## Follow me on Social Media
