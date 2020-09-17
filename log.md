@@ -22,3 +22,16 @@ This project was easy and helped me brush up on some previous skills including d
 Firstly, I learnt to add HTML dynamically into DOM. Then I learnt how to manipulate those elements on runtime. I learnt a new concept of delegates (I used it to trigger a function on dynamically introduced element, using its parent element).
 
 **Link to work:** [TO-DO-List App](code/Day002-ToDoListApp/)
+
+
+### Day 2: September, 17 - 2020 (Digital and Analog clocks)
+
+**Today's Progress**: I developed a digital and an analog clock.
+
+**Thoughts:** Today I learnt CSS box-shadow, transition and translate (for rotation) properties. Along with this I used JavaScript `setInterval()` method to rotate the analog clock and change the numbers on the digital clock.
+
+I preempted that task of animating the analog clock would be challenging, but it was not that difficult. I approached this problem by finding out the ratios between degrees and all three time units(hours, minutes and seconds) and multipling them with the current time units.
+
+**Links to work:** 
+  * [Digital clock](code/Day003-DigitalAndAnalogClock/DigitalClock)
+  * [Analog clock](code/Day003-DigitalAndAnalogClock/AnalogClock)
