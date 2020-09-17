@@ -1,0 +1,154 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #3B3E3D;
+}
+
+#clock {
+    width: 500px;
+    height: 625px;
+    position: absolute;
+    box-shadow: 19px 20px 30px rgba(0,0,0,0.5), -10px -10px 40px rgba(0,0,0,0.25), inset -5px -5px 10px rgba(0,0,0,0.5), inset 5px 5px 10px rgba(0,0,0,0.5);
+    margin-top: 50px;
+    margin-left: 25%;
+}
+
+#hanger-container {
+    width: 100%;
+    margin-left: 25%;
+    margin-top: 10px;
+    position: relative;
+    text-align: center;
+}
+
+#hanger-horizontal-strip {
+    width: 50%;
+    height: 20px;
+    position: relative;
+    border-radius: 10px;
+    background-color: #F0F2F2;
+}
+
+#hanger-vertical-strip {
+    width: 10px;
+    height: 180px;
+    margin-left: 25%;
+    background-color: #F0F2F2;
+}
+
+#clock-body {
+    width:375px;
+    height: 375px;
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 12.5%;
+    border-radius: 50%;
+    border:25px solid #F0F2F2;
+}
+
+.corner-strips {
+    width: 10px;
+    height: 50px;
+    display: block;
+    border-radius: 5px;
+    background-color: #F0F2F2;
+}
+
+#twelve-o-clock {
+    margin-top: 5%;
+    margin-left: 50%;
+    position: absolute;
+}
+
+#three-o-clock {
+    margin-top: 40%;
+    margin-left: 86%;
+    position: absolute;
+    transform: rotate(90deg);
+}
+
+#six-o-clock {
+    margin-top: 75%;
+    margin-left: 50%;
+    position: absolute;
+}
+
+#nine-o-clock {
+    margin-top: 40%;
+    margin-left: 10%;
+    position: absolute;
+    transform: rotate(90deg);
+}
+
+.clock-bottom-leg {
+    width: 50px;
+    height:100px;
+    display:block;
+    border-radius: 50%;
+    background-color: #F0F2F2;
+}
+
+#left-leg {
+    margin-left: 25%;
+    margin-top: 320px;
+    transform: rotate(45deg);
+}
+
+#right-leg {
+    margin-left: 64%;
+    margin-top: -95px;
+    transform: rotate(135deg);
+}
+
+.clock-hands{
+    z-index: 1;
+    margin-left: 50%;
+    border-radius: 50%;
+    position: absolute;
+}
+
+#second-hand {
+    z-index: 4;
+    width: 10px;
+    height: 120px;
+    margin-top: 50px;
+    transition: transform 2s;
+    transform-origin: bottom;
+    background-color: #B0E1F9;
+    transition-timing-function: linear;
+}
+
+#minute-hand {
+    z-index: 3;
+    width: 20px;
+    height: 100px;
+    margin-top: 75px;
+    transform-origin: bottom;
+    background-color: #01BFFF;
+}
+
+#hour-hand {
+    z-index: 2;
+    width: 30px;
+    height: 80px;
+    margin-top: 90px;
+    transform-origin: bottom;
+    background-color: #3190C5;
+}
+
+#center-circle {
+    z-index: 5;
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin-top: 145px;
+    margin-left: 232px;
+    border-radius: 50%;
+    position: absolute;
+    transform-origin: bottom;
+    background-color: #F0F2F2;
+}
