@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- head start -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Tic Tac Toe | Day 004 | 100 days of code challenge</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<!-- head end -->
+
+<!-- body start -->
+<body>
+    <main>
+        <div id="game-container">
+            <div id="player-codes">
+                <span id="player-1-code">Player 1 : <strong>0</strong> </span>
+                <span id="player-2-code">Player 2 : <strong>X</strong> </span>
+            </div>
+            <div id="scores-row">
+                <span>Won by Player 1 : <em id="player-1-won">0</em></span>
+                <span>Won by Player 2 : <em id="player-2-won">0</em></span>
+                <span>Drawn : <em id="no-one-won">0</em></span>
+            </div>
+            <div id="game">
+                <div class="row">
+                    <div id="_00"> - </div><div id="_01"> - </div><div id="_02"> - </div>
+                </div><!--
+                --><div class="row">
+                    <div id="_10"> - </div><div id="_11"> - </div><div id="_12"> - </div>
+                </div><!--
+                --><div class="row">
+                    <div id="_20"> - </div><div id="_21"> - </div><div id="_22"> - </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- JavaScript files -->
+    <script src="jquery.min.js"></script>
+    <script src="script.js"></script>
+</body>
+<!-- body end -->
+
+</html>

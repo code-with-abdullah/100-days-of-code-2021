@@ -24,7 +24,7 @@ Firstly, I learnt to add HTML dynamically into DOM. Then I learnt how to manipul
 **Link to work:** [TO-DO-List App](code/Day002-ToDoListApp/)
 
 
-### Day 2: September, 17 - 2020 (Digital and Analog clocks)
+### Day 3: September, 17 - 2020 (Digital and Analog clocks)
 
 **Today's Progress**: I developed a digital and an analog clock.
 
@@ -35,3 +35,12 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Links to work:** 
   * [Digital clock](code/Day003-DigitalAndAnalogClock/DigitalClock)
   * [Analog clock](code/Day003-DigitalAndAnalogClock/AnalogClock)
+
+
+### Day 4: September, 18 - 2020 (Digital and Analog clocks)
+
+**Today's Progress**: I developed a tic-tac-toe game.
+
+**Thoughts:** This project was easier than expected. I revisited the rules of variable naming today and learnt programmed a two-player game.
+
+**Link to work:** [Tic-tac-toe](code/Day004-TicTacToe)

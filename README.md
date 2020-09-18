@@ -3,13 +3,13 @@
  
  This was suggested to me by the lab where I am working as a Research Assistant since June 2019. Check out the lab at [Vision and Learning Research Lab](http://vision-learning.media-tics.net/).
 
-## My latest project in this challenge was (A Digital and an Analog clock)
+## My latest project in this challenge was (Tic-Tac-Toe game using JavaScript)
 
- Source code for this project can be found [here](code/Day003-DigitalAndAnalogClock/).
+ Source code for this project can be found [here](code/Day004-TicTacToe/).
 
- ![digital-clock-image](images/Day003/digital-clock.gif)
+ ![tic-tac-toe-image-02](images/Day004/tic-tac-toe-1.png)
 
- ![analog-clock-image](images/Day003/analog-clock.gif)
+ ![tic-tac-toe-image-02](images/Day004/tic-tac-toe-2.png)
 
 ## Follow me on Social Media
 
