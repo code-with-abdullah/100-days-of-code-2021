@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- head starts -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Generator | Day 005 | 100 days of code challenge</title>
+
+    <!-- adding google font : Port Lligat Slab -->
+    <link href="https://fonts.googleapis.com/css2?family=Port+Lligat+Slab&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="style.css">
+</head>
+<!-- head ends -->
+
+<!-- body starts -->
+<body>
+    
+    <main>
+        <div id="main-container">
+            <h1>Password generator</h1>
+
+            <strong><h3>Note : Check all you want to include in password</h3></strong>
+
+            <form>
+                <div>
+                    <label for="#password-digit">Digits</label>
+                    <input type="checkbox" name="password-digit-input" id="password-digit" checked>
+                </div>
+                <div>
+                    <label for="#password-lowercase">Lowercase letters</label>
+                    <input type="checkbox" name="password-lowercase-input" id="password-lowercase" checked>
+                </div>
+                <div>
+                    <label for="#password-uppercase">Uppercase letters</label>
+                    <input type="checkbox" name="password-uppercase-input" id="password-uppercase" checked>
+                </div>
+                <div>
+                    <label for="#password-symbol">Special character</label>
+                    <input type="checkbox" name="password-symbol-input" id="password-symbol" checked>
+                </div>
+                <div>
+                    <label for="#password-length">Length</label>
+                    <input type="number" min="8" max="25" value=8 name="password-length-input" id="password-length">
+                </div>
+
+                <div>
+                    <label for="#password-generated">Generated Password</label>
+                    <input type="text" name="password-generated-input" id="password-generated" disabled>
+                </div>
+
+                <p id="notice">password copied to clipboard</p>
+
+                <div id="button-container">
+                    <button type="button">Generate</button>
+                </div>
+
+            </form>
+        </div>
+    </main>
+
+
+    <!-- JavaScript files -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+    <!-- JavaScript files end -->
+
+</body>
+<!-- body ends -->
+
+</html>
