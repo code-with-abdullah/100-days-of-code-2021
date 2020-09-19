@@ -3,13 +3,17 @@
  
  This was suggested to me by the lab where I am working as a Research Assistant since June 2019. Check out the lab at [Vision and Learning Research Lab](http://vision-learning.media-tics.net/).
 
-## My latest project in this challenge was (Tic-Tac-Toe game using JavaScript)
+## My latest project in this challenge was (Password Generator game using JavaScript)
 
- Source code for this project can be found [here](code/Day004-TicTacToe/).
+ Source code for this project can be found [here](code/Day005-PasswordGenerator/).
 
- ![tic-tac-toe-image-02](images/Day004/tic-tac-toe-1.png)
+ ![password-generator-image-01](images/Day005/password-generator-1.png)
 
- ![tic-tac-toe-image-02](images/Day004/tic-tac-toe-2.png)
+ ![password-generator-image-02](images/Day005/password-generator-2.png)
+
+ ![password-generator-image-03](images/Day005/password-generator-3.png)
+
+ ![password-generator-image-04](images/Day005/password-generator-4.png)
 
 ## Follow me on Social Media
 
