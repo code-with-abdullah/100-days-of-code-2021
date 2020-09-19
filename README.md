@@ -3,7 +3,7 @@
  
  This was suggested to me by the lab where I am working as a Research Assistant since June 2019. Check out the lab at [Vision and Learning Research Lab](http://vision-learning.media-tics.net/).
 
-## My latest project in this challenge was (Password Generator game using JavaScript)
+## My latest project in this challenge was (Password Generator using JavaScript)
 
  Source code for this project can be found [here](code/Day005-PasswordGenerator/).
 
