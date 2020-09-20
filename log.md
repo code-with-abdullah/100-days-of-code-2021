@@ -55,10 +55,10 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Link to work:** [Password generator](code/Day005-PasswordGenerator)
 
 
-### Day 6: September, 20 - 2020 (sudoku).
+### Day 6: September, 20 - 2020 (Data visualization in Python).
 
-**Today's Progress**: I developed a sudoku game in urdu language.
+**Today's Progress**: Today I used python seaborn package for data visualization.
 
-**Thoughts:** Today I developed sudoku game and attached a database with it. I stored 100 words in a file and randomly picked the number of words to start a game.
+**Thoughts:** I completed the kaggle course on data visualization and downloaded a dataset from there. Applied different ways to visualize data. I found out that seaborn is imported as sns(Samuel Norman Seaborn) because these are the initials of a charcter played by Rob Lowe in The West Wing.
 
-**Link to work:** [Suduko](code/Day006-SudokoGame)
+**Link to work:** [Data visualization](code/Day006-DataVisualization)
