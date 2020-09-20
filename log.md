@@ -45,6 +45,7 @@ I preempted that task of animating the analog clock would be challenging, but it
 
 **Link to work:** [Tic-tac-toe](code/Day004-TicTacToe)
 
+
 ### Day 5: September, 19 - 2020 (Password generator).
 
 **Today's Progress**: I developed a password generator.
@@ -52,3 +53,12 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Today I developed a password generator in which you can select rules and it will generate a random password. I used ASCII codes to generate characters and assigned them at different locations of the array(maintained as password).
 
 **Link to work:** [Password generator](code/Day005-PasswordGenerator)
+
+
+### Day 6: September, 20 - 2020 (sudoku).
+
+**Today's Progress**: I developed a sudoku game in urdu language.
+
+**Thoughts:** Today I developed sudoku game and attached a database with it. I stored 100 words in a file and randomly picked the number of words to start a game.
+
+**Link to work:** [Suduko](code/Day006-SudokoGame)

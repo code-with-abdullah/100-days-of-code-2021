@@ -1,0 +1,8 @@
+E:\Lab Work\Semester 5\VP_Lab\SemesterProject_V_0.1\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Lab Work\Semester 5\VP_Lab\SemesterProject_V_0.1\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Lab Work\Semester 5\VP_Lab\SemesterProject_V_0.1\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+E:\Lab Work\Semester 5\VP_Lab\SemesterProject_V_0.1\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Lab Work\Semester 5\VP_Lab\SemesterProject_V_0.1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Lab Work\Semester 5\VP_Lab\SemesterProject_V_0.1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Lab Work\Semester 5\VP_Lab\SemesterProject_V_0.1\DataAccessLayer\bin\Debug\UsersData.mdf
+E:\Lab Work\Semester 5\VP_Lab\SemesterProject_V_0.1\DataAccessLayer\bin\Debug\UsersData_log.ldf
