@@ -62,3 +62,12 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** I completed the kaggle course on data visualization and downloaded a dataset from there. Applied different ways to visualize data. I found out that seaborn is imported as sns(Samuel Norman Seaborn) because these are the initials of a charcter played by Rob Lowe in The West Wing.
 
 **Link to work:** [Data visualization](code/Day006-DataVisualization)
+
+
+### Day 7: September, 21 - 2020 (Data visualization using Seaborn on Spotify dataset).
+
+**Today's Progress**: Data visualization for Spotify dataset using different types of plots.
+
+**Thoughts:** I used kaggle Spotify dataset to visualize the data for analysis.
+
+**Link to work:** [Data visualization on Spotify dataset](code/Day007-SpotifyDataVisualization)
