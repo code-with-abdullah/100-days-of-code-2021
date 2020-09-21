@@ -68,6 +68,6 @@ I preempted that task of animating the analog clock would be challenging, but it
 
 **Today's Progress**: Data visualization for Spotify dataset using different types of plots.
 
-**Thoughts:** I used kaggle Spotify dataset to visualize the data for analysis.
+**Thoughts:** I used kaggle Spotify dataset to visualize the data for analysis. I applied data analysis on the same data and concluded inferences on the basis of different time intervals.
 
 **Link to work:** [Data visualization on Spotify dataset](code/Day007-SpotifyDataVisualization)
