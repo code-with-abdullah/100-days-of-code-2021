@@ -71,3 +71,12 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** I used kaggle Spotify dataset to visualize the data for analysis. I applied data analysis on the same data and concluded inferences on the basis of different time intervals.
 
 **Link to work:** [Data visualization on Spotify dataset](code/Day007-SpotifyDataVisualization)
+
+
+### Day 8: September, 22 - 2020 (NodeJS basics).
+
+**Today's Progress**: Started a course on NodeJS on udemy.
+
+**Thoughts:** Today I started a course on NodeJS. In the fist module I revisited the concepts of JavaScript ES6. Second module dived into NodeJS basics. It explained the event loop of NodeJs. Furthermore, I used Node to create a form that accepts data from user, saves it in a local file and re-routes the user back to the same page.
+
+**Link to work:** [NodeJS Basics](code/Day008-NodeJS-Basics)
