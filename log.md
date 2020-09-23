@@ -80,3 +80,12 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Today I started a course on NodeJS. In the fist module I revisited the concepts of JavaScript ES6. Second module dived into NodeJS basics. It explained the event loop of NodeJs. Furthermore, I used Node to create a form that accepts data from user, saves it in a local file and re-routes the user back to the same page.
 
 **Link to work:** [NodeJS Basics](code/Day008-NodeJS-Basics)
+
+
+### Day 9: September, 22 - 2020 (ExpressJS basics).
+
+**Today's Progress**: Continued with NodeJS course on udemy.
+
+**Thoughts:** Today I learnt to install third-party-packages using node-package-manager. I used nodemon to incorporate the auto-restart functionality during development. I also used body-parser package. The most important thing I learnt today was the concept of middlewares in ExpressJS.
+
+**Link to work:** [ExpressJS Basics](code/Day009-NodeJS-Basics-Continued)
