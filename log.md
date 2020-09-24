@@ -82,10 +82,19 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Link to work:** [NodeJS Basics](code/Day008-NodeJS-Basics)
 
 
-### Day 9: September, 22 - 2020 (ExpressJS basics).
+### Day 9: September, 23 - 2020 (ExpressJS basics).
 
 **Today's Progress**: Continued with NodeJS course on udemy.
 
 **Thoughts:** Today I learnt to install third-party-packages using node-package-manager. I used nodemon to incorporate the auto-restart functionality during development. I also used body-parser package. The most important thing I learnt today was the concept of middlewares in ExpressJS.
 
 **Link to work:** [ExpressJS Basics](code/Day009-NodeJS-ExpressJS)
+
+
+### Day 10: September, 24 - 2020 (ExpressJS basics).
+
+**Today's Progress**: Continued with NodeJS course on udemy.
+
+**Thoughts:** Today I continued with the NodeJS course got familiar with ExpressJS and converted NodeJS routes to ExpressJS routes. Learnt a convetion of naming a file
+
+**Link to work:** [ExpressJS basics and routing](code/Day010-NodeJS-ExpressJS)
