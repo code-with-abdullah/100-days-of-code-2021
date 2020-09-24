@@ -88,4 +88,4 @@ I preempted that task of animating the analog clock would be challenging, but it
 
 **Thoughts:** Today I learnt to install third-party-packages using node-package-manager. I used nodemon to incorporate the auto-restart functionality during development. I also used body-parser package. The most important thing I learnt today was the concept of middlewares in ExpressJS.
 
-**Link to work:** [ExpressJS Basics](code/Day009-NodeJS-Basics-Continued)
+**Link to work:** [ExpressJS Basics](code/Day009-NodeJS-ExpressJS)
