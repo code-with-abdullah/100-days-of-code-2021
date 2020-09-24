@@ -11,9 +11,11 @@ const app = express();
 const server = http.createServer(app);
 
 app.use(bodyParser.urlencoded({extended:false}));
-
-app.use(adminRoutes);
-
+app.use('/admin',adminRoutes);
 app.use(shopRoutes);
+
+app.use((req, res, next)=>{
+    res.sendFile(path.join('..', 'views', 'shop.html'));
+});
 
 server.listen(3000);
