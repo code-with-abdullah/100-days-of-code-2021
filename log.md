@@ -98,3 +98,15 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Today I continued with the NodeJS course got familiar with ExpressJS and converted NodeJS routes to ExpressJS routes. Learnt a convetion of naming a file
 
 **Link to work:** [ExpressJS basics and routing](code/Day010-NodeJS-ExpressJS)
+
+
+## Day 11 to 20
+
+
+### Day 11: September, 25 - 2020 (ExpressJS continued basics).
+
+**Today's Progress**: Continued with NodeJS course on udemy.
+
+**Thoughts:** Today I continued with the NodeJS course for the third day. Learnt how to serve files with read access to the user.
+
+**Link to work:** [ExpressJS basics, routing & static files serving](code/Day011-NodeJS-ExpressJS-continued)
