@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## First ten days
+## Day 01 to 10
 
 ### Day 1: September, 15 - 2020 (Calculator App)
 
