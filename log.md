@@ -110,3 +110,12 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Today I continued with the NodeJS course for the third day. Learnt how to serve files with read access to the user.
 
 **Link to work:** [ExpressJS basics, routing & static files serving](code/Day011-NodeJS-ExpressJS-continued)
+
+
+### Day 12: September, 26 - 2020 (Templating engine - pug).
+
+**Today's Progress**: Continued with NodeJS course on udemy.
+
+**Thoughts:** I continued with NodeJS and ExpressJS. Although in a website we need to have dynamic content. I learnt to use pug templating engine along with ExpressJS.
+
+**Link to work:** [ExpressJS dynamic content rendering](code/Day012-NodeJS-ExpressJS-TemplatingEngine)
