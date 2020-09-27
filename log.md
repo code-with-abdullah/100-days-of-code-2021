@@ -119,3 +119,12 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** I continued with NodeJS and ExpressJS. Although in a website we need to have dynamic content. I learnt to use pug templating engine along with ExpressJS.
 
 **Link to work:** [ExpressJS dynamic content rendering](code/Day012-NodeJS-ExpressJS-TemplatingEngine)
+
+
+### Day 13: September, 27 - 2020 (Templating engine - handlebars).
+
+**Today's Progress**: Continued with NodeJS course on udemy.
+
+**Thoughts:** I continued with NodeJS and ExpressJS. Today I used handlebars to render the dynamic content. It is quite a straight forward way of rendering content however implementing logic based functionality is a tad bit hectic.
+
+**Link to work:** [Dynamic content with Express-handlebars](code/Day013-NodeJS-ExpressJS-TemplatingEngines)
