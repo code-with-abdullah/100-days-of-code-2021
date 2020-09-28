@@ -33,7 +33,7 @@ app.use((req, res, next) => {
     //res.status(404).sendFile(path.join(__dirname, 'views', '404.html'));
 
     // => used for templating engine
-    res.render('404', {pageTitle: '404 error | Page not found'});
+    res.render('404', {pageTitle: '404 error | Page not found', path: req.url});
 });
 
 app.listen(3000);
