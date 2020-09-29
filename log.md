@@ -128,3 +128,11 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** I continued with NodeJS and ExpressJS. Today I used handlebars to render the dynamic content. It is quite a straight forward way of rendering content however implementing logic based functionality is a tad bit hectic.
 
 **Link to work:** [Dynamic content with Express-handlebars](code/Day013-NodeJS-ExpressJS-TemplatingEngines)
+
+### Day 13: September, 28 - 2020 (Templating engine - handlebars).
+
+**Today's Progress**: Continued with NodeJS course on udemy.
+
+**Thoughts:** I continued with NodeJS and ExpressJS. Today I used EJS to render the dynamic content.
+
+**Link to work:** [Dynamic content with EJS](code/Day014-ConvertedProjectToEJS)
