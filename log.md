@@ -129,6 +129,7 @@ I preempted that task of animating the analog clock would be challenging, but it
 
 **Link to work:** [Dynamic content with Express-handlebars](code/Day013-NodeJS-ExpressJS-TemplatingEngines)
 
+
 ### Day 14: September, 28 - 2020 (Templating engine - EJS).
 
 **Today's Progress**: Continued with NodeJS course on udemy.
@@ -136,3 +137,12 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** I continued with NodeJS and ExpressJS. Today I used EJS to render the dynamic content.
 
 **Link to work:** [Dynamic content with EJS](code/Day014-ConvertedProjectToEJS)
+
+
+### Day 15: September, 29 - 2020 (Applied three tier architecture on the application - MVC).
+
+**Today's Progress**: Continued with NodeJS course on udemy.
+
+**Thoughts:** I continued with NodeJS and ExpressJS. Converted my vagely structured project to follow MVC architecture.
+
+**Link to work:** [Dynamic content with EJS](code/Day015-ConvertedProjectToMVC)
