@@ -129,7 +129,7 @@ I preempted that task of animating the analog clock would be challenging, but it
 
 **Link to work:** [Dynamic content with Express-handlebars](code/Day013-NodeJS-ExpressJS-TemplatingEngines)
 
-### Day 13: September, 28 - 2020 (Templating engine - handlebars).
+### Day 14: September, 28 - 2020 (Templating engine - EJS).
 
 **Today's Progress**: Continued with NodeJS course on udemy.
 
