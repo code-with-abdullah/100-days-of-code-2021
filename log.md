@@ -146,3 +146,12 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** I continued with NodeJS and ExpressJS. Converted my vagely structured project to follow MVC architecture.
 
 **Link to work:** [Dynamic content with EJS](code/Day015-ConvertedProjectToMVC)
+
+
+### Day 16: September, 30 - 2020 (Web crawling using BeautifulSoup and requests).
+
+**Today's Progress**: Google images crawler using python.
+
+**Thoughts:** Today I wrote a bot in Python that grabs the first 20 images from google-images search results.
+
+**Link to work:** [Web crawler in Python](code/Day016-WebScrapingUsingBS4)
