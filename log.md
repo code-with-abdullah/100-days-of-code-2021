@@ -155,3 +155,12 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Today I wrote a bot in Python that grabs the first 20 images from google-images search results.
 
 **Link to work:** [Web crawler in Python](code/Day016-WebScrapingUsingBS4)
+
+
+### Day 17: September, 30 - 2020 (Web crawling using Selenium Webdriver).
+
+**Today's Progress**: Google images crawler using python.
+
+**Thoughts:** Today I wrote a bot in Python that grabs the number of images specified by user for a specific query. All these images are downloaded to a local folder called images. For each quey instance a new folder is created. If the query has been searched for earlier then the same folder is used to store more images. The counter is automatically taken to the number of images stored in that file plus one.
+
+**Link to work:** [Web crawler in Python](code/Day017-WebScrapingUsingSelenium)
