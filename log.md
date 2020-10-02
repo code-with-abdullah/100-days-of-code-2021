@@ -145,7 +145,7 @@ I preempted that task of animating the analog clock would be challenging, but it
 
 **Thoughts:** I continued with NodeJS and ExpressJS. Converted my vagely structured project to follow MVC architecture.
 
-**Link to work:** [Dynamic content with EJS](code/Day015-ConvertedProjectToMVC)
+**Link to work:** [Node/Express MVC Project](code/Day015-ConvertedProjectToMVC)
 
 
 ### Day 16: September, 30 - 2020 (Web crawling using BeautifulSoup and requests).
@@ -157,10 +157,19 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Link to work:** [Web crawler in Python](code/Day016-WebScrapingUsingBS4)
 
 
-### Day 17: September, 30 - 2020 (Web crawling using Selenium Webdriver).
+### Day 17: October, 1 - 2020 (Web crawling using Selenium Webdriver).
 
 **Today's Progress**: Google images crawler using python.
 
 **Thoughts:** Today I wrote a bot in Python that grabs the number of images specified by user for a specific query. All these images are downloaded to a local folder called images. For each quey instance a new folder is created. If the query has been searched for earlier then the same folder is used to store more images. The counter is automatically taken to the number of images stored in that file plus one.
 
 **Link to work:** [Web crawler in Python](code/Day017-WebScrapingUsingSelenium)
+
+
+### Day 18: October, 2 - 2020 (Back to NodeJS).
+
+**Today's Progress**: Continued with NodeJS course on udemy.
+
+**Thoughts:** After an adventure of two das with webscapring in python, I came back to continue learning node. 
+
+**Link to work:** [Node Project](code/Day017-WebScrapingUsingSelenium)
