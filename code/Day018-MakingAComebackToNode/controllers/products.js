@@ -12,10 +12,13 @@ exports.getAddProduct = (req, res, next) => {
 
 exports.postAddProduct = (req, res, next) => {
     //''st Product = new Product[req.pageTitle]|
+    const product = new Product(req.body.title);
+    product.save();
     res.redirect('/');
 }
 
 exports.getProducts = (req, res, next) => {
+    const product = Product.fetchAll();
         res.render('shop', {
         prods: products,
         pageTitle: 'shop',
