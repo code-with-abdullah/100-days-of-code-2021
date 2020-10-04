@@ -1,9 +1,9 @@
-# This is my thirteenth day in the #100DaysOfCode challenge
+# This is my eighteenth day in the #100DaysOfCode challenge
 
 ## Technologies used
  * Node JS
  * Express JS
- * Templating engine : handlebars
+ * Templating engine : EJS
 
 ## Thoughts
- I continued with NodeJS and ExpressJS. Yesterday I used pug templating engine to render dynamic content. However today I used express-handlebars. My take of handlebars is that its not quite amusing than pug. It is embeded in HTML and applying conditional functionality is quite diffcult.
+ I converted my project to incorporate MVC design pattern. I used file storage to save products as a JSON object.
