@@ -173,3 +173,12 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** After an adventure of two das with webscapring in python, I came back to continue learning node. 
 
 **Link to work:** [Node Project](code/Day018-MakingAComebackToNode)
+
+
+### Day 19: October, 3 - 2020 (Models in NodeJS).
+
+**Today's Progress**: Continued with NodeJS course on udemy.
+
+**Thoughts:** Implemented models to save data in JSON format.
+
+**Link to work:** [Node Project with models implemented](code/Day019-EnhancingTheApp)\

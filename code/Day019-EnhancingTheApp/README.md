@@ -1,4 +1,4 @@
-# This is my eighteenth day in the #100DaysOfCode challenge
+# This is my ninteenth day in the #100DaysOfCode challenge
 
 ## Technologies used
  * Node JS
@@ -6,4 +6,4 @@
  * Templating engine : EJS
 
 ## Thoughts
- I converted my project to incorporate MVC design pattern. I used file storage to save products as a JSON object.
+ I converted my project to incorporate MVC design pattern. Implemented models to save data in JSON format.
