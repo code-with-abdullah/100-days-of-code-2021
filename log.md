@@ -181,4 +181,13 @@ I preempted that task of animating the analog clock would be challenging, but it
 
 **Thoughts:** Implemented models to save data in JSON format.
 
-**Link to work:** [Node Project with models implemented](code/Day019-EnhancingTheApp)/
+**Link to work:** [Node Project with models implemented](code/Day019-EnhancingTheApp)
+
+
+### Day 20: October, 4 - 2020 (Dynamic Routes in NodeJS).
+
+**Today's Progress**: Continued with NodeJS course on udemy.
+
+**Thoughts:** Implemented the logic to cater dynamic routes. Fascinated by this feature of Node/Express. 
+
+**Link to work:** [Node Project with models implemented](code/Day020-DynamicRoutes)
