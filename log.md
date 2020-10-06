@@ -181,4 +181,4 @@ I preempted that task of animating the analog clock would be challenging, but it
 
 **Thoughts:** Implemented models to save data in JSON format.
 
-**Link to work:** [Node Project with models implemented](code/Day019-EnhancingTheApp)\
+**Link to work:** [Node Project with models implemented](code/Day019-EnhancingTheApp)/
