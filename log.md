@@ -196,10 +196,10 @@ I preempted that task of animating the analog clock would be challenging, but it
 ## Day 21 to 30
 
 
-### Day 21: October, 5 - 2020 ().
+### Day 21: October, 5 - 2020 (Query Parameters and Cart).
 
-**Today's Progress**: 
+**Today's Progress**: Continued with NodeJS course on udemy.
 
-**Thoughts:** 
+**Thoughts:** Implemented editing a product functionality and got familiar with query parameters. Added a new model (cart) for add to cart functionality.
 
-**Link to work:** [Node Project with models implemented]()
+**Link to work:** [Query parameters and Cart Model](Day021-QueryParametersAndMoreModels)
