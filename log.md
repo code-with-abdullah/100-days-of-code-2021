@@ -191,3 +191,15 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Implemented the logic to cater dynamic routes. Fascinated by this feature of Node/Express. 
 
 **Link to work:** [Node Project with models implemented](code/Day020-DynamicRoutes)
+
+
+## Day 21 to 30
+
+
+### Day 21: October, 5 - 2020 ().
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** [Node Project with models implemented]()
