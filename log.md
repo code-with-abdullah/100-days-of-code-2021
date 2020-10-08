@@ -203,3 +203,12 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Implemented editing a product functionality and got familiar with query parameters. Added a new model (cart) for add to cart functionality.
 
 **Link to work:** [Query parameters and Cart Model](Day021-QueryParametersAndMoreModels)
+
+
+### Day 22: October, 6 - 2020 (Micro functionalities like delete).
+
+**Today's Progress**: Continued with NodeJS course on udemy.
+
+**Thoughts:** Implemented the delete product functionality. Removing from cart was also implemented.
+
+**Link to work:** [Query parameters and Cart Model](Day022-RemovingProducts)
