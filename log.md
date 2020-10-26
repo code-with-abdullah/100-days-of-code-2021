@@ -220,3 +220,30 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Implemented the cart functionality.
 
 **Link to work:** [Cart Functionality](code/Day023-CartFunctionality)
+
+
+### Day 24: October, 8 - 2020 (Bug fixes).
+
+**Today's Progress**: Continued with NodeJS course on udemy.
+
+**Thoughts:** Implemented the cart functionality and removed bugs from code.
+
+**Link to work:** [Cart Functionality](code/Day024-CartFunctionalityAndBugFixes)
+
+
+### Day 25: October, 9 - 2020 (SQL).
+
+**Today's Progress**: Continued with NodeJS course on udemy.
+
+**Thoughts:** Started learning SQL and implemented converted the models to SQL.
+
+**Link to work:** [Cart Functionality](code/Day025-SQL)
+
+
+### Day 26: October, 10 - 2020 (MySQL).
+
+**Today's Progress**: Continued with NodeJS course on udemy.
+
+**Thoughts:** Installed MySQL and added the database functionality.
+
+**Link to work:** [Cart Functionality](code/Day026-DatabaseMySQL)
