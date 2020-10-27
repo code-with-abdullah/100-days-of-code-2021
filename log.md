@@ -237,7 +237,7 @@ I preempted that task of animating the analog clock would be challenging, but it
 
 **Thoughts:** Started learning SQL and implemented converted the models to SQL.
 
-**Link to work:** [Cart Functionality](code/Day025-SQL)
+**Link to work:** [SQL](code/Day025-SQL)
 
 
 ### Day 26: October, 10 - 2020 (MySQL).
@@ -246,7 +246,7 @@ I preempted that task of animating the analog clock would be challenging, but it
 
 **Thoughts:** Installed MySQL and added the database functionality.
 
-**Link to work:** [Cart Functionality](code/Day026-DatabaseMySQL)
+**Link to work:** [Database MySQL](code/Day026-DatabaseMySQL)
 
 
 ### Day 27: October, 11 - 2020 (Sequelize).
@@ -255,7 +255,7 @@ I preempted that task of animating the analog clock would be challenging, but it
 
 **Thoughts:** Used sequelize package and converted my models to sequelize.
 
-**Link to work:** [Cart Functionality](code/Day027-StartingSequelize)
+**Link to work:** [Starting Sequelize](code/Day027-StartingSequelize)
 
 
 ### Day 28: October, 12 - 2020 (Sequelize).
@@ -264,4 +264,13 @@ I preempted that task of animating the analog clock would be challenging, but it
 
 **Thoughts:** Used sequelize package and converted my models to sequelize.
 
-**Link to work:** [Cart Functionality](code/Day027-FinishingSequelize)
+**Link to work:** [Finishing Sequelize](code/Day027-FinishingSequelize)
+
+
+### Day 29: October, 13 - 2020 (MongoDB).
+
+**Today's Progress**: Continued with NodeJS course on udemy.
+
+**Thoughts:** Started using MongoDB. Created an account for MongoDB Atlas.
+
+**Link to work:** [MongoDB](code/Day027-Day029-StartingMongoDB)
