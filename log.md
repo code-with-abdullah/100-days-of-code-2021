@@ -264,7 +264,7 @@ I preempted that task of animating the analog clock would be challenging, but it
 
 **Thoughts:** Used sequelize package and converted my models to sequelize.
 
-**Link to work:** [Finishing Sequelize](code/Day027-FinishingSequelize)
+**Link to work:** [Finishing Sequelize](code/Day028-FinishingSequelize)
 
 
 ### Day 29: October, 13 - 2020 (MongoDB).
@@ -273,4 +273,13 @@ I preempted that task of animating the analog clock would be challenging, but it
 
 **Thoughts:** Started using MongoDB. Created an account for MongoDB Atlas.
 
-**Link to work:** [MongoDB](code/Day027-Day029-StartingMongoDB)
+**Link to work:** [MongoDB](code/Day029-StartingMongoDB)
+
+
+### Day 30: October, 13 - 2020 (Starting ReactJS).
+
+**Today's Progress**: Continued with NodeJS course on udemy.
+
+**Thoughts:** Start using React and understood the components and Virtual DOM concept.
+
+**Link to work:** [MongoDB](code/Day030-StartingReactJS)
