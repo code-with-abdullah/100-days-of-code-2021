@@ -247,3 +247,21 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Installed MySQL and added the database functionality.
 
 **Link to work:** [Cart Functionality](code/Day026-DatabaseMySQL)
+
+
+### Day 27: October, 11 - 2020 (Sequelize).
+
+**Today's Progress**: Continued with NodeJS course on udemy.
+
+**Thoughts:** Used sequelize package and converted my models to sequelize.
+
+**Link to work:** [Cart Functionality](code/Day027-StartingSequelize)
+
+
+### Day 28: October, 12 - 2020 (Sequelize).
+
+**Today's Progress**: Continued with NodeJS course on udemy.
+
+**Thoughts:** Used sequelize package and converted my models to sequelize.
+
+**Link to work:** [Cart Functionality](code/Day027-FinishingSequelize)
