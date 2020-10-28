@@ -1,4 +1,4 @@
-# This is my twenty-second day in the #100DaysOfCode challenge
+# This is my twenty-seventh day in the #100DaysOfCode challenge
 
 ## Technologies used
  * Node JS
@@ -6,4 +6,4 @@
  * Templating engine : EJS
 
 ## Thoughts
- I implemented the delete product functionality. Removing from cart was also implemented.
+ I used the NodeJS sequelize package to implement models. I found it easier than raw SQL.

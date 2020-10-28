@@ -6,4 +6,4 @@
  * Templating engine : EJS
 
 ## Thoughts
- I implemented the delete product functionality. Removing from cart was also implemented.
+ Changed the Models to SQL.

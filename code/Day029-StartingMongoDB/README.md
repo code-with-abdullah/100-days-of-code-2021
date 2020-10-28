@@ -4,6 +4,7 @@
  * Node JS
  * Express JS
  * Templating engine : EJS
+ * MongoDB
 
 ## Thoughts
- I implemented the delete product functionality. Removing from cart was also implemented.
+ Started MongoDB today. Created the MongoDB atlas account created a database to be accessed from within the application.
