@@ -37,3 +37,38 @@ body {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+.top-header {
+    background: #2a2a2a;
+    margin-bottom: 19px;
+    padding: 10px 15px;
+    font-size: 24px;
+    text-align: left;
+    font-weight: bold;
+}
+
+select {
+    font-size: 15px;
+    width: 150px;
+    float:right;
+}
+
+.widgetWrap {
+    height: 180px;
+    margin-bottom: 20px;
+}
+
+.widgetValue {
+    display: flex;
+    align-items: flex-end;
+    height: 145px;
+    padding-left: 8px;
+}
+
+.value {
+    color: yellow;
+}
+
+.widgetTitle {
+    color: #b6b6b6;
+}
