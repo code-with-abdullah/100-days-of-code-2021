@@ -14,7 +14,7 @@ X_test = np.expand_dims(X_test, -1)
 y_train = keras.utils.to_categorical(y_train, 10)
 y_test = keras.utils.to_categorical(y_test, 10)
 
-model = Sequential(shape=(28,28,1))
+model = Sequential()
 
 model.add(Conv2D(32, (3,3), activation='relu'))
 model.add(MaxPooling2D(pool_size=(2,2)))
@@ -35,7 +35,7 @@ model.add(Dense(10, activation='softmax'))
 
 model.compile(loss="categorical_crossentropy", optimizer="adam", metrics=["accuracy"])
 
-model.fit(X_train, y_train, batch_size=32, epochs=20, validation_split=0.2)
+model.fit(X_train, y_train, batch_size=128, epochs=20, validation_split=0.1)
 
 evaluations = model.evaluate(X_test, y_test, verbose=0)
 print("Test loss:", evaluations[0])
