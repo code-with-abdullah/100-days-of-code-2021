@@ -30,4 +30,3 @@ for x in range(891):
 
 embarked_encoder = LabelEncoder()
 X_train[:, -1] = embarked_encoder.fit_transform(X_train[:, -1])
-
