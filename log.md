@@ -283,3 +283,15 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Start using React and understood the components and Virtual DOM concept.
 
 **Link to work:** [MongoDB](code/Day030-StartingReactJS)
+
+
+## Day 31 to 40
+
+### Day 31: October, 14 - 2020 (ReactJS Basics).
+
+**Today's Progress**: Learn React JS basics .
+
+
+### Day 32: October, 15 - 2020 (ReactJS Project).
+
+**Today's Progress**: Worked on my project for my Internship.
