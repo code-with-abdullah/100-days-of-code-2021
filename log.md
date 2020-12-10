@@ -276,7 +276,7 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Link to work:** [MongoDB](code/Day029-StartingMongoDB)
 
 
-### Day 30: October, 13 - 2020 (Starting ReactJS).
+### Day 30: October, 14 - 2020 (Starting ReactJS).
 
 **Today's Progress**: Continued with NodeJS course on udemy.
 
@@ -287,11 +287,39 @@ I preempted that task of animating the analog clock would be challenging, but it
 
 ## Day 31 to 40
 
-### Day 31: October, 14 - 2020 (ReactJS Basics).
+
+### Day 31: October, 15 - 2020 (ReactJS Basics).
 
 **Today's Progress**: Learn React JS basics .
 
 
-### Day 32: October, 15 - 2020 (ReactJS Project).
+### Day 32: October, 16 - 2020 (ReactJS Project).
 
 **Today's Progress**: Worked on my project for my Internship.
+
+
+### Day 33: October, 17 - 2020 (Simple Linear Regression).
+
+**Today's Progress**: Started learning machine learning models.
+
+**Thoughts:** Simple linear regression.
+
+**Link to work:** [SimpleLinearRegression](code/Day033-SimpleLinearRegression)
+
+
+### Day 34: October, 18 - 2020 (Multiple Linear Regression).
+
+**Today's Progress**: Continued machine learning (regression).
+
+**Thoughts:** Multiple linear regression.
+
+**Link to work:** [MultipleLinearRegression](code/Day034-MultipleLinearRegression)
+
+
+### Day 35: October, 19 - 2020 (Polynomial Regression).
+
+**Today's Progress**: Continued machine learning (regression).
+
+**Thoughts:** Polynomial regression.
+
+**Link to work:** [PolynomialLinearRegression](code/Day035-PolynomialLinearRegression)
