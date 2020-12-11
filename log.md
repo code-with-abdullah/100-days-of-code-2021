@@ -323,3 +323,47 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Polynomial regression.
 
 **Link to work:** [PolynomialLinearRegression](code/Day035-PolynomialLinearRegression)
+
+
+### Day 36: October, 20 - 2020 (Support Vector Regression).
+
+**Today's Progress**: Continued machine learning (regression).
+
+**Thoughts:** Support vector regression.
+
+**Link to work:** [SupportVectorRegression](code/Day036-SupportVectorRegression)
+
+### Day 37: October, 21 - 2020 (Decision Tree Regression).
+
+**Today's Progress**: Continued machine learning (regression).
+
+**Thoughts:** Decision tree regression.
+
+**Link to work:** [DecisionTree](code/Day037-DecisionTreeRegression)
+
+
+### Day 38: October, 22 - 2020 (Random Forest Regression).
+
+**Today's Progress**: Continued machine learning (regression).
+
+**Thoughts:** Random Forest regression.
+
+**Link to work:** [RandomForestRegression](code/Day038-RandomForestRegression)
+
+
+### Day 39: October, 23 - 2020 (Logistic Regression).
+
+**Today's Progress**: Continued machine learning (regression).
+
+**Thoughts:** Logistic regression.
+
+**Link to work:** [LogisticRegression](code/Day039-LogisticRegression)
+
+
+### Day 40: October, 24 - 2020 (KNN).
+
+**Today's Progress**: Continued machine learning (classification).
+
+**Thoughts:** K-Nearest Neighbours algorithm. I found out that knn in python follows the American spellings for neighbour after browsing the web for around half an hour.
+
+**Link to work:** [KNN](code/Day040-KNN)
