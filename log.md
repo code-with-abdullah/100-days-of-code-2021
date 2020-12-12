@@ -367,3 +367,24 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** K-Nearest Neighbours algorithm. I found out that knn in python follows the American spellings for neighbour after browsing the web for around half an hour.
 
 **Link to work:** [KNN](code/Day040-KNN)
+
+
+## Day 41 to 50
+
+
+### Day 41: October, 25 - 2020 (Support Vector Machines).
+
+**Today's Progress**: SVM (classification).
+
+**Thoughts:** linear SVM algorithm.
+
+**Link to work:** [LinearSVM](code/Day041-SupportVectorMachine)
+
+
+### Day 42: October, 26 - 2020 (Support Vector Machines).
+
+**Today's Progress**: Kernal based SVM (classification).
+
+**Thoughts:** Kernal SVM algorithm.
+
+**Link to work:** [KernalSVM](code/Day042-KernalSVM)
