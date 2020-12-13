@@ -388,3 +388,30 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Kernal SVM algorithm.
 
 **Link to work:** [KernalSVM](code/Day042-KernalSVM)
+
+
+### Day 43: October, 27 - 2020 (Naive Bayes).
+
+**Today's Progress**: Naive Bayes (classification).
+
+**Thoughts:** Naive Bayes algorithm.
+
+**Link to work:** [NaiveBayes](code/Day043-NaiveBayes)
+
+
+### Day 44: October, 28 - 2020 (Decision Trees).
+
+**Today's Progress**: Decision Tree (classification).
+
+**Thoughts:** Decision Tree algorithm.
+
+**Link to work:** [DecisionTree](code/Day044-DecisionTreeClassification)
+
+
+### Day 45: October, 29 - 2020 (Random Forest).
+
+**Today's Progress**: Random Forest (classification).
+
+**Thoughts:** Random Forest algorithm.
+
+**Link to work:** [KernalSVM](code/Day045-RandomForestClassification)
