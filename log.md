@@ -415,3 +415,21 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Random Forest algorithm.
 
 **Link to work:** [KernalSVM](code/Day045-RandomForestClassification)
+
+
+### Day 46: October, 30 - 2020 (K-means).
+
+**Today's Progress**: K-means (clustering).
+
+**Thoughts:** K means algorithm.
+
+**Link to work:** [K-means](code/Day046-KMeansClustering)
+
+
+### Day 47: October, 31 - 2020 (Apriori).
+
+**Today's Progress**: Apriori (association rule mining).
+
+**Thoughts:** Apriori association rule mining algorithm.
+
+**Link to work:** [Apriori](code/Day047-AprioriAssociationRulesMining)
