@@ -433,3 +433,30 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Apriori association rule mining algorithm.
 
 **Link to work:** [Apriori](code/Day047-AprioriAssociationRulesMining)
+
+
+### Day 48: November, 01 - 2020 (Upper confidence bound).
+
+**Today's Progress**: UCB.
+
+**Thoughts:** Upper Confidence Bound.
+
+**Link to work:** [UCB](code/Day048-UpperConfidenceBound)
+
+
+### Day 49: November, 02 - 2020 (NLP).
+
+**Today's Progress**: NLP (text processing).
+
+**Thoughts:** Natural Language Processing.
+
+**Link to work:** [NLP](code/Day049-NLP-TextPreprocessing)
+
+
+### Day 50: November, 03 - 2020 (NLP).
+
+**Today's Progress**: NLP (bag of words).
+
+**Thoughts:** Natural Language Processing.
+
+**Link to work:** [NLP](code/Day050-NLP-BagOfWords)
