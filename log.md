@@ -460,3 +460,12 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Natural Language Processing.
 
 **Link to work:** [NLP](code/Day050-NLP-BagOfWords)
+
+
+### Day 51: November, 04 - 2020 (NLP).
+
+**Today's Progress**: NLP (naive bayes classifier).
+
+**Thoughts:** Natural Language Processing.
+
+**Link to work:** [NLP-bayes](code/Day051-NLP-NaiveBayes)
