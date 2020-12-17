@@ -462,6 +462,9 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Link to work:** [NLP](code/Day050-NLP-BagOfWords)
 
 
+## Day 51 to 60
+
+
 ### Day 51: November, 04 - 2020 (NLP).
 
 **Today's Progress**: NLP (naive bayes classifier).
@@ -469,3 +472,39 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Natural Language Processing.
 
 **Link to work:** [NLP-bayes](code/Day051-NLP-NaiveBayes)
+
+
+### Day 52: November, 05 - 2020 (ANN).
+
+**Today's Progress**: ANN (classification).
+
+**Thoughts:** Data preprocessing for artificial neural network.
+
+**Link to work:** [ANN](code/Day052-ANN-Preprocessing)
+
+
+### Day 53: November, 06 - 2020 (ANN).
+
+**Today's Progress**: ANN (classifcation).
+
+**Thoughts:** Classification using artificial neural network.
+
+**Link to work:** [ANN](code/Day053-ANN-WithResults)
+
+
+### Day 54: November, 07 - 2020 (ANN).
+
+**Today's Progress**: CNN (classifcation).
+
+**Thoughts:** Classification using convolutional neural network.
+
+**Link to work:** [CNN](code/Day054-CNN)
+
+
+### Day 55: November, 08 - 2020 (ANN).
+
+**Today's Progress**: CNN (classifcation).
+
+**Thoughts:** Classification with datagen in tensorflow.
+
+**Link to work:** [CNN](code/Day055-CNN-DataGen)
