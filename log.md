@@ -508,3 +508,12 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Classification with datagen in tensorflow.
 
 **Link to work:** [CNN](code/Day055-CNN-DataGen)
+
+
+### Day 56: November, 09 - 2020 (PCA).
+
+**Today's Progress**: CNN (classifcation).
+
+**Thoughts:** Classification with datagen in tensorflow.
+
+**Link to work:** [CNN](code/Day055-CNN-DataGen)
