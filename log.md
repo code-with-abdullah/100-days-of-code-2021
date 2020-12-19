@@ -512,8 +512,45 @@ I preempted that task of animating the analog clock would be challenging, but it
 
 ### Day 56: November, 09 - 2020 (PCA).
 
-**Today's Progress**: CNN (classifcation).
+**Today's Progress**: PCA.
 
-**Thoughts:** Classification with datagen in tensorflow.
+**Thoughts:** Principal Component Analysis.
 
-**Link to work:** [CNN](code/Day055-CNN-DataGen)
+**Link to work:** [PCA](code/Day056-PCA)
+
+
+### Day 57: November, 10 - 2020 (LDA).
+
+**Today's Progress**: LDA.
+
+**Thoughts:** Linear Discrement Analysis.
+
+**Link to work:** [LDA](code/Day057-LDA)
+
+
+
+### Day 58: November, 11 - 2020 (MNIST).
+
+**Today's Progress**: MNIST image classifier.
+
+**Thoughts:** MNIST CNN.
+
+**Link to work:** [MNIST](code/Day058-MNIST)
+
+
+### Day 59: November, 12 - 2020 (Titanic).
+
+**Today's Progress**: Kaggle titanic dataset preprocessing.
+
+**Thoughts:** Data processing.
+
+**Link to work:** [TitanicDataPreprocessing](code/Day059-TitatnicKaggle-Preprocessing)
+
+
+### Day 60: November, 13 - 2020 (Titanic).
+
+**Today's Progress**: Kaggle titanic dataset predictions.
+
+**Thoughts:** Predicting survival from data.
+
+**Link to work:** [TitanicPredictions](code/Day060-TitatnicKaggle-Predictions)
