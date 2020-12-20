@@ -554,3 +554,33 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Predicting survival from data.
 
 **Link to work:** [TitanicPredictions](code/Day060-TitatnicKaggle-Predictions)
+
+
+## Day 61 to 70
+
+
+### Day 61: November, 14 - 2020 (Titanic).
+
+**Today's Progress**: Improved predictions.
+
+**Thoughts:** Improving Predictions on Titanic DataSet from Kaggle.
+
+**Link to work:** [ImprovedPredictions](code/Day061-TitatnicKaggle-ImprovingPredictions)
+
+
+### Day 62: November, 15 - 2020 (Titanic).
+
+**Today's Progress**: Improved predictions.
+
+**Thoughts:** Improving Predictions on Titanic DataSet from Kaggle.
+
+**Link to work:** [TitanicPredictions](code/Day062-TitatnicKaggle-ImprovingPredictions)
+
+
+### Day 63: November, 16 - 2020 (Titanic).
+
+**Today's Progress**: Finalizing predictions on Titanic Kaggle Dataset.
+
+**Thoughts:** Selected the best algorithm for classification based on the accuracy of test set.
+
+**Link to work:** [TitanicFinal](code/Day063-TitatnicKaggle-Final)
