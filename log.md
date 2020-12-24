@@ -584,3 +584,40 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Selected the best algorithm for classification based on the accuracy of test set.
 
 **Link to work:** [TitanicFinal](code/Day063-TitatnicKaggle-Final)
+
+
+### Day 64: November, 17 - 2020 (Jovian Assignment).
+
+**Today's Progress**: Did first assignment for zero to gans on Jovian.AI .
+
+**Thoughts:** Assignment 01 on Jovian for zero to gans course.
+
+**Link to work:** [Assignment-01](code/Day064-Jovian-TensorOperations)
+
+
+### Day 65: November, 18 - 2020 (Deep learning - assignment 01).
+
+**Today's Progress**: Did first programming assignment for deep learning and neural networks course on coursera.
+
+**Link to work:** [Coursera-DL-Assignment-01](code/Day065-Assignment01-DeepLearning)
+
+
+### Day 66: November, 19 - 2020 (Deep learning - assignment 02).
+
+**Today's Progress**: Did second programming assignment for deep learning and neural networks course on coursera.
+
+**Link to work:** [Coursera-DL-Assignment-01](code/Day065-Assignment01-DeepLearning)
+
+
+### Day 67: November, 20 - 2020 (Deep learning - assignment 03).
+
+**Today's Progress**: Did third programming assignment for deep learning and neural networks course on coursera.
+
+**Link to work:** [Coursera-DL-Assignment-01](code/Day065-Assignment01-DeepLearning)
+
+
+### Day 68: November, 21 - 2020 (Deep learning - assignment 04).
+
+**Today's Progress**: Did fourth programming assignment for deep learning and neural networks course on coursera.
+
+**Link to work:** [Coursera-DL-Assignment-01](code/Day065-Assignment01-DeepLearning)
