@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+﻿# 100 Days Of Code - Log
 
 ## Day 01 to 10
 
@@ -621,3 +621,10 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Today's Progress**: Did fourth programming assignment for deep learning and neural networks course on coursera.
 
 **Link to work:** [Coursera-DL-Assignment-01](code/Day065-Assignment01-DeepLearning)
+
+
+### Day 68: November, 22 - 2020 (Pandas on Kaggle).
+
+**Today's Progress**: Did first 3 modules of Kaggle's micro-course on Pandas
+
+**Link to work:** [Pandas-3Modules](code/Day069-PandasOnKaggle)
