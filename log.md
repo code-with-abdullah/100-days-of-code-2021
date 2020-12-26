@@ -623,8 +623,24 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Link to work:** [Coursera-DL-Assignment-01](code/Day065-Assignment01-DeepLearning)
 
 
-### Day 68: November, 22 - 2020 (Pandas on Kaggle).
+### Day 69: November, 22 - 2020 (Pandas on Kaggle).
 
 **Today's Progress**: Did first 3 modules of Kaggle's micro-course on Pandas
 
 **Link to work:** [Pandas-3Modules](code/Day069-PandasOnKaggle)
+
+
+### Day 70: November, 23 - 2020 (Pandas on Kaggle).
+
+**Today's Progress**: Completed the Kaggle course on Pandas
+
+**Link to work:** [Pandas](code/Day070-PandasOnKaggle)
+
+
+### Day 71 to 80 : November, 24 2020 to December 3, 2020 (Market basket analysis).
+
+**Today's Progress**: Market basket analysis complete project.
+
+**Thoughts:** Took a market basket data from Kaggle. Did preprocessing of the data. Used Apriori association rule mining technique to predict items that are most likely to be bought together.
+
+**Link to work:** [AprioriAnalysis](code/Day071 to 080 - Apriori analysis on market basket data)
