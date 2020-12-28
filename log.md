@@ -644,3 +644,39 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Took a market basket data from Kaggle. Did preprocessing of the data. Used Apriori association rule mining technique to predict items that are most likely to be bought together.
 
 **Link to work:** [AprioriAnalysis](code/Day071 to 080 - Apriori analysis on market basket data)
+
+
+### Day 81: December, 04 - 2020 (Arrhythmia Classification).
+
+**Today's Progress**: Designed a deep neural network for Arrythmia classification.
+
+**Thoughts:** It was a multi-layer multi-class classification problem. I came across some heristics for designing multi-layer perceptron architectures.
+
+**Link to work:** [DesignOfANN](code/Day081-ArrhythmiaClassificationANN-Design)
+
+
+### Day 82: December, 05 - 2020 (Arrhythmia Classification).
+
+**Today's Progress**: Preprocessed the dataset.
+
+**Thoughts:** Today I preprocessed the dataset to fill the missing values. Z-score normalization was done to convert the range of each feature to be between 0 and 1.
+
+**Link to work:** [PreprocessingDataset](code/Day082-ArrhythmiaClassificationANN-PreprocessingDataset)
+
+
+### Day 83: December, 06 - 2020 (Arrhythmia Classification).
+
+**Today's Progress**: Implemented the same ANN designed 2 days ago.
+
+**Thoughts:** I used Keras API in python to implement this architecture and selected hyper parameters on the basis of trail and error.
+
+**Link to work:** [KerasAnnImplementation](code/Day083-ArrhythmiaClassificationANN-KerasImplementation)
+
+
+### Day 84: December, 07 - 2020 (Arrhythmia Classification).
+
+**Today's Progress**: Designed a deep neural network for Arrythmia classification.
+
+**Thoughts:** I did hyper parameter tuning to improve the validation accuracy. The metric parameter proved to be the most effective as top-k-categorical took the accuracy from 65% to 93% on test data.
+
+**Link to work:** [CompleteAnnClassifierForArrhythmia](code/Day084-ArrhythmiaClassificationANN-HyperParametersTuning)
