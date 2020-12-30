@@ -680,3 +680,21 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** I did hyper parameter tuning to improve the validation accuracy. The metric parameter proved to be the most effective as top-k-categorical took the accuracy from 65% to 93% on test data.
 
 **Link to work:** [CompleteAnnClassifierForArrhythmia](code/Day084-ArrhythmiaClassificationANN-HyperParametersTuning)
+
+
+### Day 85: December, 08 - 2020 (Jovain Assignment).
+
+**Today's Progress**: Started the second assignment for PyTorch course on Jovian.
+
+**Thoughts:** Started second assignment for Zero to Gans Certification on Jovian.AI platform.
+
+**Link to work:** [JovianSecondAssignment](code/Day085-JovianAI-SecondAssignment)
+
+
+### Day 86: December, 09 - 2020 (Similar Links Generator).
+
+**Today's Progress**: I wrote a script to generate similar links to a given URL.
+
+**Thoughts:** I was looking for download links of different episodes of a TV-show. I found this website which restricted the access to database but the links for each episode were similar. Therefore, I automated this task to generate links for each episode from one link.
+
+**Link to work:** [LinksHack](code/Day086-LinksGenerator)
