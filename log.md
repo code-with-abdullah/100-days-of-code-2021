@@ -698,3 +698,12 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** I was looking for download links of different episodes of a TV-show. I found this website which restricted the access to database but the links for each episode were similar. Therefore, I automated this task to generate links for each episode from one link.
 
 **Link to work:** [LinksHack](code/Day086-LinksGenerator)
+
+
+### Day 87: December, 10 - 2020 (Titanic competition on Kaggle).
+
+**Today's Progress**: Compiled a Jupyter notebook for Titanic Kaggle competition.
+
+**Thoughts:** I had done all the work in .py files and was documented pretty badly, so I replicated the work into a well documented jupyter notebook.
+
+**Link to work:** [TitanicNotebook](code/Day087-TitanicKaggleCompetitionJupyterNotebookCompilation)
