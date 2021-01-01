@@ -711,8 +711,17 @@ I preempted that task of animating the analog clock would be challenging, but it
 
 ### Day 88: December, 11 - 2020 (Multithreading in Python).
 
-**Today's Progress**: Learnet to use multithreading on Python oon Windows.
+**Today's Progress**: Learnt to use multithreading on Python on Windows.
 
 **Thoughts:** Made different classes, inherited from Thread class. Called their start methods to execute them simultaneously. 
 
 **Link to work:** [MultiThreading Python](code/Day088-MultiThreading)
+
+
+### Day 89: December, 12 - 2020 (MultiProcessing in Python).
+
+**Today's Progress**: Learnt to use multi-processing on Python for Windows.
+
+**Thoughts:** Made same method run in multiple processes parallelly. Found that windows gives a runtime error if the code is not in the main function. 
+
+**Link to work:** [MultiProcessing Python](code/Day089-MultiProcessing)
