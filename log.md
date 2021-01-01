@@ -707,3 +707,12 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** I had done all the work in .py files and was documented pretty badly, so I replicated the work into a well documented jupyter notebook.
 
 **Link to work:** [TitanicNotebook](code/Day087-TitanicKaggleCompetitionJupyterNotebookCompilation)
+
+
+### Day 88: December, 11 - 2020 (Multithreading in Python).
+
+**Today's Progress**: Learnet to use multithreading on Python oon Windows.
+
+**Thoughts:** Made different classes, inherited from Thread class. Called their start methods to execute them simultaneously. 
+
+**Link to work:** [MultiThreading Python](code/Day088-MultiThreading)
