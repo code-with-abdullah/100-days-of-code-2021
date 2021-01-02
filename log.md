@@ -725,3 +725,12 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Made same method run in multiple processes parallelly. Found that windows gives a runtime error if the code is not in the main function. 
 
 **Link to work:** [MultiProcessing Python](code/Day089-MultiProcessing)
+
+
+### Day 90: December, 13 - 2020 (DataVisualization in Python).
+
+**Today's Progress**: Used Kaggle titanic dataset and created Graphs for Visualization.
+
+**Thoughts:** Used the seaborn package to create graphs to visualize titanic data from kaggle. 
+
+**Link to work:** [DatavisualizationTitanicDataset](code/Day090-TitanicDataVisualization)
