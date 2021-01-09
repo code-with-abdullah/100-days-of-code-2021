@@ -734,3 +734,33 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Used the seaborn package to create graphs to visualize titanic data from kaggle. 
 
 **Link to work:** [DatavisualizationTitanicDataset](code/Day090-TitanicDataVisualization)
+
+
+## Day 91 to 100
+
+
+### Day 91: December, 14 - 2020 (Jovian Assignment).
+
+**Today's Progress**: Completed the second assignment on Jovian.AI.
+
+**Thoughts:** Completed the Jovian PyTorch course second assignment. 
+
+**Link to work:** [JovianSecondAssignment](code/Day091-JovianAI-SecondAssignment)
+
+
+### Day 92: December, 15 - 2020 (Titanic Dataset).
+
+**Today's Progress**: Compared the results of multiple classifiers on Titanic Dataset.
+
+**Thoughts:** Deep neural network with only one hidden layer outperformed all the other machine learning algorithms.
+
+**Link to work:** [ComparisionOfClassfiers](code/Day092-TitanicKaggleClassifiersComparsion)
+
+
+### Day 93: December, 15 - 2020 (BlackJack).
+
+**Today's Progress**: Solved black jack on Kaggle.
+
+**Thoughts:** Solve the coding challenge for BlackJack on Kaggle.
+
+**Link to work:** [KaggleBlackJack](code/Day093-KaggleBlackJack)
