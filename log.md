@@ -764,3 +764,12 @@ I preempted that task of animating the analog clock would be challenging, but it
 **Thoughts:** Solve the coding challenge for BlackJack on Kaggle.
 
 **Link to work:** [KaggleBlackJack](code/Day093-KaggleBlackJack)
+
+
+### Day 94: December, 16 - 2020 (RockPaperScissor).
+
+**Today's Progress**: Designed Rock Paper Scissor game in Python.
+
+**Thoughts:** Game developed in Python (Rock Paper Scissor). Inspired by [this](https://levelup.gitconnected.com/21-python-mini-projects-with-codes-c4126e4131e4) medium post.
+
+**Link to work:** [RockPaperScissor](code/Day094-RockPaperScissor)
